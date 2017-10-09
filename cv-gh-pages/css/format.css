@@ -1,0 +1,24 @@
+.datealignmentright{
+	float: right;
+	clear: both;
+}
+
+#MasterThesisObject {
+	
+	display: block;
+}
+
+.row a{
+	
+	text-decoration : none;
+}	color: black;
+
+.portfolioImage {
+	
+	float: left;
+}
+
+.portfolioContent {
+	
+	text-align: left;
+}
